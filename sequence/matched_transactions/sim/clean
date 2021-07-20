@@ -1,0 +1,1 @@
+rm -rf INCA_libs cov_work *.log *.history
